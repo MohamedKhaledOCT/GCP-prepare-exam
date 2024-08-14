@@ -1,2 +1,3 @@
 Cloud Run : serverless for contianer
 Cloud Storage >> S3 Bucket
+Persistent Disks >> EBS
